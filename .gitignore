@@ -1,0 +1,17 @@
+slides.aux
+slides.log
+slides.nav
+slides.out
+slides.snm
+slides.toc
+_region_.tex
+auto/
+*.pvg
+*.vrb
+*.log
+*.pyg
+frog1/*.png
+frog2/*.png
+frog1.mp4
+frog2.mp4
+_region_.*
